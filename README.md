@@ -1,7 +1,7 @@
 # Particle_Swarm_Optimisation-SAS-IML-
 Algorithm of PSO with SAS-IML
 
-This work aims to introduce the Particle swarm optimization \textit{(PSO)} method, applied on a wide range of real life complex problems.
+This work aims to introduce the Particle swarm optimization (PSO) method, applied on a wide range of real life complex problems.
 
 Depending on the context, PSO outperforms other optimization methods such as gradient based algorithms and other derivative-free 
 algorithms, especially in the case of some non-linear objective function, as they tend to get trapped in local optimums and fail to 
